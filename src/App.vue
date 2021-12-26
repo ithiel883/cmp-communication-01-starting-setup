@@ -54,7 +54,7 @@ export default {
         name: name,
         phone: phone,
         email: email,
-        sFavorite: false
+        isFavorite: false
       }
       this.friends.push(newFriendContact)
     }, 
